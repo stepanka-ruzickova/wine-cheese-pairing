@@ -1,34 +1,32 @@
-# wine-cheese-pairing
-A beginner-friendly data project that pairs wines with cheeses using simple logic and datasets.
 # 🧀🍷 Wine & Cheese Pairing
 
-A beginner-friendly data project that pairs wines with cheeses using simple logic and datasets.
+A small data project for everyone who loves wine, cheese, and learning the basics of working with data.
 
-## 🔍 About the project
+## 🔍 What it's about
 
-This project explores how to match wines with cheeses based on basic rules and simple data. It's a playful experiment to combine food and data – perfect for beginners learning Python and data analysis.
+We wanted to try combining something tasty with something we're learning – and that’s how this wine & cheese pairing project was born. We work with two datasets (wines and cheeses) and try to find combinations that make sense based on simple logic.
 
 ## 📁 Project structure
 
 
 
-## 🧠 How the pairing works
+## 🧠 How it works
 
-- Each wine has certain characteristics (e.g., red/white, sweet/dry).
-- Each cheese has a flavor profile (e.g., mild, strong, creamy).
-- Simple logic is used to find possible matches based on compatibility.
+- Each wine has basic characteristics (e.g. color, sweetness).
+- Each cheese has a flavor profile (e.g. mild, strong, creamy).
+- We use simple rules to find which ones go well together.
 
-## ✅ What you’ll learn
+## ✅ What we practiced
 
-- How to work with CSV files in Python
-- How to match two datasets with basic rules
-- How to structure and share a small data project
+- Reading and working with CSV files in Python  
+- Writing basic logic to match two datasets  
+- Structuring and sharing a small data project on GitHub
 
-## ▶️ How to run
+## ▶️ How to run it
 
-1. Download or clone this repository
-2. Open `pairing.ipynb` in Jupyter Notebook
-3. Run all cells to see the wine & cheese pairings
+1. Download or clone this repository  
+2. Open `pairing.ipynb` in Jupyter Notebook  
+3. Run all the cells to see the pairing results
 
 ## ✨ Example result
 
@@ -38,6 +36,6 @@ This project explores how to match wines with cheeses based on basic rules and s
 | Chardonnay      | Brie                 |
 | Sauvignon Blanc | Goat Cheese          |
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-Project by **Štěpánka Růžičková & Vendula Dvořáčková** – data enthusiast with a love for wine, cheese, animals, and learning new things.
+Project by **Štěpánka Růžičková & Vendula Dvořáčková** – two data enthusiasts who enjoy learning new things and mixing the world of data with fun (and flavor!).
