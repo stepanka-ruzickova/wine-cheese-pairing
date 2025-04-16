@@ -31,6 +31,8 @@ We wanted to try combining something tasty with something we're learning – and
 | Chardonnay      | Brie                 |
 | Sauvignon Blanc | Goat Cheese          |
 
+> **Note:** This project was created as part of our learning journey in data analysis. It's intentionally simple – the goal was to practice basic concepts and try something fun.
+
 ## 👩‍💻 Authors
 
 Project by **Štěpánka Růžičková & Vendula Dvořáčková** – two data enthusiasts who enjoy learning new things and mixing the world of data with fun (and flavor!).
