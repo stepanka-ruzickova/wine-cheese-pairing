@@ -4,7 +4,11 @@ A small data project for everyone who loves wine, cheese, and learning the basic
 
 ## 🔍 What it's about
 
-We wanted to try combining something tasty with something we're learning – and that’s how this wine & cheese pairing project was born. We work with two datasets (wines and cheeses) and try to find combinations that make sense based on simple logic.
+We wanted to try combining something tasty with something we're learning – and that’s how this wine & cheese pairing project was born.  
+We work with two datasets (wines and cheeses) and try to find combinations that make sense based on simple logic.
+
+📝 Read more about the project on [Medium]([https://medium.com/your-article-link-here](https://medium.com/@stepa.ruzickova/list/reading-list)).
+
 
 ## 📁 Project structure
 
