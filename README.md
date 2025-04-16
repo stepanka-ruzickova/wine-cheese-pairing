@@ -22,11 +22,6 @@ We wanted to try combining something tasty with something we're learning – and
 - Writing basic logic to match two datasets  
 - Structuring and sharing a small data project on GitHub
 
-## ▶️ How to run it
-
-1. Download or clone this repository  
-2. Open `pairing.ipynb` in Jupyter Notebook  
-3. Run all the cells to see the pairing results
 
 ## ✨ Example result
 
